@@ -1,3 +1,4 @@
+![@mrummler17 banner](https://github.com/mrummler17/mrummler17/blob/main/ebab3e2a8ec93ad66c8322727d4b83d5c3a7e1caf743ddc515412e7f034d2528.png?raw=true)
 👋 Hi, I’m @mrummler17
 
 💻 I build AI-powered web apps using ChatGPT — no coding background, just grit and great prompts.  

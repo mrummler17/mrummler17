@@ -2,11 +2,9 @@
 
 👋 Hi, I’m @mrummler17
 
-💻 I build AI-powered web apps using ChatGPT — no coding background, just grit and great prompts.  
+💻 I build AI-powered web apps using ChatGPT, no coding background, just grit and great prompts.  
 🏁 Creator of Project E36, a digital platform for a grassroots motorsport team.  
 🛠 Rebuilt the RETSA Group website — faster, cleaner, and SEO-optimised → [retsagroup.com.au](https://retsagroup.com.au)  
-📚 Building **PDF Direct**, a smart support tool to simplify software rollouts.  
-🤖 Created **VionixAI**, a multi-agent AI assistant built 100% with GPT-4 + Vercel V0 → [vionixai.vercel.app](https://vionixai.vercel.app)
 
 🧠 What I’m learning now:
 - GitHub security, Snyk, and proper PR hygiene  

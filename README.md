@@ -1,20 +1,26 @@
 ![@mrummler17 banner](https://github.com/mrummler17/vionixai/raw/main/ebab3e2a8ec93ad66c8322727d4b83d5c3a7e1caf743ddc515412e7f034d2528.png)
 
-👋 Hi, I’m @mrummler17
+👋 Hi, I’m **@mrummler17**
 
-💻 I build AI-powered web apps using ChatGPT, no coding background, just grit and great prompts.  
-🏁 Creator of Project E36, a digital platform for a grassroots motorsport team.  
-🛠 Rebuilt the RETSA Group website — faster, cleaner, and SEO-optimised → [retsagroup.com.au](https://retsagroup.com.au)  
+I build practical AI-powered web products with no traditional coding background - just consistency, good systems, and relentless execution.
 
-🧠 What I’m learning now:
-- GitHub security, Snyk, and proper PR hygiene  
-- Stripe integration for app monetisation  
-- How to ship faster without overthinking
+🏁 **Creator of Project E36** (digital platform for grassroots motorsport)  
+🔧 Rebuilt **RETSA Group** for speed, clarity, and SEO → **retsagroup.com.au**  
+🩺 Building **RepoMedic**: AI-driven repo hygiene, security triage, and safe remediation workflows  
+🤝 Strong believer in **human + AI collaboration** (real outcomes over hype)
 
-🤝 Open to collabs — especially with people doing cool stuff in AI, sport, or digital learning.
+🧠 **Current focus:**
+- GitHub security + Dependabot workflow discipline  
+- PR quality, CI reliability, and clean release cadence  
+- Turning AI into an execution engine across product + operations
 
-📬 Reach me at: training@retsagroup.com.au  
-💡 Fun fact: 100% self-taught. No shortcuts. No excuses.
+🚀 **Now building toward:**  
+- RepoMedic v1.0.7  
+- 500+ downloads milestone  
+- Expanded “digital EA + engineering ops” workflow
+
+📬 Reach me: **training@retsagroup.com.au**  
+💡 Self-taught. No excuses. Ship, learn, improve.
 <!---
 mrummler17/mrummler17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

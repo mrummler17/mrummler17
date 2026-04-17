@@ -1,27 +1,30 @@
 ![@mrummler17 banner](https://github.com/mrummler17/vionixai/raw/main/ebab3e2a8ec93ad66c8322727d4b83d5c3a7e1caf743ddc515412e7f034d2528.png)
 
-👋 Hi, I’m **@mrummler17**
+# Hi, I’m Marcus
 
-I build practical AI-powered web products with no traditional coding background - just consistency, good systems, and relentless execution.
+I build practical AI-powered web products and systems with a strong focus on execution, clarity, and continuous improvement.
 
-🏁 **Creator of Project E36** (digital platform for grassroots motorsport)  
-🔧 Rebuilt **RETSA Group** for speed, clarity, and SEO → **retsagroup.com.au**  
-🩺 Building **RepoMedic**: AI-driven repo hygiene, security triage, and safe remediation workflows  
-🤝 Strong believer in **human + AI collaboration** (real outcomes over hype)
+## What I do
+- Build and improve digital products with AI-assisted workflows
+- Run repo hygiene, security triage, and Dependabot remediation through **RepoMedic**
+- Improve CI reliability, PR quality, and release discipline
+- Use human + AI collaboration to turn ideas into shipped outcomes
 
-🧠 **Current focus:**
-- GitHub security + Dependabot workflow discipline  
-- PR quality, CI reliability, and clean release cadence  
-- Turning AI into an execution engine across product + operations
+## Current projects
+- **Project E36** — digital platform for grassroots motorsport
+- **RepoMedic** — AI-driven repo maintenance and safe remediation workflows
+- **RETSA Group** — performance, clarity, and SEO improvements for <https://retsagroup.com.au>
 
-🚀 **Now building toward:**  
-- RepoMedic v1.0.7  
-- 500+ downloads milestone  
-- Expanded “digital EA + engineering ops” workflow
+## Current focus
+- GitHub security and dependency hygiene
+- Stable delivery workflows and cleaner repositories
+- Building repeatable AI systems for product and operations
 
-📬 Reach me: **training@retsagroup.com.au**  
-💡 Self-taught. No excuses. Ship, learn, improve.
+## Contact
+- **Email:** training@retsagroup.com.au
+
+Self-taught. Practical. Consistent.
+
 <!---
-mrummler17/mrummler17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+mrummler17/mrummler17 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->

@@ -2,23 +2,27 @@
 
 # Hi, I’m Marcus
 
-I build practical AI-powered web products and systems with a strong focus on execution, clarity, and continuous improvement.
+I build practical AI-powered products, automation systems, and digital platforms that solve real operational problems.
 
-## What I do
-- Build and improve digital products with AI-assisted workflows
-- Run repo hygiene, security triage, and Dependabot remediation through **RepoMedic**
-- Improve CI reliability, PR quality, and release discipline
-- Use human + AI collaboration to turn ideas into shipped outcomes
+My work sits at the intersection of product execution, repo security, workflow automation, and AI-assisted operations.
 
-## Current projects
-- **Project E36** — digital platform for grassroots motorsport
-- **RepoMedic** — AI-driven repo maintenance and safe remediation workflows
+## What I focus on
+- AI-powered product and workflow systems
+- Repository security, dependency hygiene, and remediation workflows
+- CI reliability, release discipline, and operational clarity
+- Turning AI into a practical execution layer for real businesses
+
+## Featured projects
+- **RepoMedic** — AI-driven repository hygiene, security triage, and safe dependency remediation
+- **Project E36 Race Team** — digital platform supporting grassroots motorsport
+- **AI API Proxy Guard** — infrastructure for safer, more governed AI API usage
+- **IDA** — AI-assisted business and learning workflow system
 - **RETSA Group** — performance, clarity, and SEO improvements for <https://retsagroup.com.au>
 
-## Current focus
-- GitHub security and dependency hygiene
-- Stable delivery workflows and cleaner repositories
-- Building repeatable AI systems for product and operations
+## Build style
+- Ship practical tools with clear business value
+- Use AI as leverage, not theater
+- Keep systems lean, credible, and maintainable
 
 ## Contact
 - **Email:** training@retsagroup.com.au

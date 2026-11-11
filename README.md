@@ -3,7 +3,8 @@
 # Hi, I'm Marcus Rummler
 
 I'm a self-taught builder creating practical digital products, automation and
-AI-assisted tools.
+AI-assisted tools. I'm interested in AI development, learning technology and
+grassroots motorsport.
 
 RETSA Group remains active, with consulting and training currently paused.
 My focus is on building and maintaining useful products.

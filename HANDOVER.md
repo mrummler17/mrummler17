@@ -28,3 +28,15 @@
   application code, deployment configuration or repository settings changed.
 - Next: owner reviews and merges; verify the image on the signed-out profile
   after merge. Revert the squash commit to restore the prior profile if needed.
+
+## 2026-11-10 Intro interests
+
+- Branch: `cursor/profile-intro-interests-edf7`; base: `0d45c63` on `main`.
+- Added one sentence to the opening paragraph: interest in AI development,
+  learning technology and grassroots motorsport.
+- Left the original banner, all project descriptions and links, "How I work"
+  and the contact line unchanged. No application repositories were accessed.
+- Verified: approved sentence only; four site URLs unchanged and HTTP 200;
+  banner blob `93cbd2c4bf072498574cbe05b6ddf494343ab0e5` unchanged;
+  markdownlint with MD041 disabled; `git diff --check` clean.
+- The profile README updates on the public profile only after this PR is merged.

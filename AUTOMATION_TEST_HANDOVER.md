@@ -11,3 +11,7 @@ This documentation-only pull request tests whether Cursor Bugbot and Security Re
 - All PledgeBoard and TowWise repositories are excluded from automation scopes and Cursor GitHub installation access.
 - Billing settings were not changed.
 - Cleanup: close this test PR without merging after the result is recorded.
+
+## Active-only scope retest
+
+This second smoke test runs after archived repositories were removed. Cursor is limited to seven active repositories; all PledgeBoard and TowWise repositories remain excluded. The router and scanner remain disabled. This documentation update exercises the PR Pushed trigger without changing production files.
